@@ -23,6 +23,7 @@
 
         <!-- keep report module last -->
         <module>report</module>
+        <module>day2-AdrianPopescu</module>
     </modules>
 
     <dependencies>
