@@ -1,13 +1,9 @@
 package com.tora;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+import com.tora.userinterface.UserInterface;
+
+public class App {
+    public static void main(String[] args) {
+        UserInterface.run();
     }
 }
